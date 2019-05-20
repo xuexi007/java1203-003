@@ -31,4 +31,12 @@ public class Dog {
     //服务器修改，新增地址字段
 
     private String address;
+
+
+    //小王，新增方法
+    public void xiaowang001(){
+        for (int i = 0; i < 10; i++) {
+            System.out.println("i:"+i);
+        }
+    }
 }
