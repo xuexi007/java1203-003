@@ -18,7 +18,9 @@ public class Dog {
     @GeneratedValue
     private Long id;
 
+    //名字
     private String name;
 
+    //人员id
     private Long personId;
 }
