@@ -31,4 +31,9 @@ public class Dog {
     //服务器修改，新增地址字段
 
     private String address;
+    
+    //小李新增字段
+    private String phone；
+        
+        
 }
