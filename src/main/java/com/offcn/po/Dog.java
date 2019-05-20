@@ -24,4 +24,8 @@ public class Dog {
 
     //人员id
     private Long personId;
+    
+    //服务器修改，新增地址字段
+    
+    private String address;
 }
