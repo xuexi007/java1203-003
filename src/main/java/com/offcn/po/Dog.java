@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.criteria.CriteriaBuilder;
 
 @Entity
 @Data
@@ -28,4 +27,8 @@ public class Dog {
 
     //新增年龄字段
     private Integer age;
+
+    //服务器修改，新增地址字段
+
+    private String address;
 }
