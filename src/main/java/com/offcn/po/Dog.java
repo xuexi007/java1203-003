@@ -39,4 +39,9 @@ public class Dog {
             System.out.println("i:"+i);
         }
     }
+
+    //小李新增字段
+    private String phone;
+
+
 }
